@@ -1,4 +1,4 @@
-package com.company.demo;
+package com.company.demo03;
 
 public class TestDemo03 {
     public static void main(String[] args) throws InterruptedException{
@@ -14,5 +14,5 @@ public class TestDemo03 {
         System.out.println("退出主线程"+Thread.currentThread().getName());
     }
 
-   
+
 }
